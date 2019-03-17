@@ -8,8 +8,8 @@
 // @match https://*rozetka.com.ua/*
 // @match https://*rozetka.com.ua/*/*
 // @match https://*rozetka.com.ua/*/*/*
-// @installURL
-// @updateURL
+// @installURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/blob/master/rozetka-com-ua.gavelweb.js
+// @updateURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/blob/master/rozetka-com-ua.gavelweb.js
 // @grant none
 // @version 0.0.1
 // ==/UserScript==
