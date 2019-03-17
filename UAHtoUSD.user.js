@@ -8,9 +8,9 @@
 // @match https://*rozetka.com.ua/*
 // @match https://*rozetka.com.ua/*/*
 // @match https://*rozetka.com.ua/*/*/*
-// @installURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/blob/master/rozetka-com-ua_UAHtoUSD.211455-gavelweb.js
-// @updateURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/blob/master/rozetka-com-ua_UAHtoUSD.211455-gavelweb.js
-// @downloadURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/blob/master/rozetka-com-ua_UAHtoUSD.211455-gavelweb.js
+// @installURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/blob/master/rozetka-com-ua_UAHtoUSD.user.js
+// @updateURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/blob/master/rozetka-com-ua_UAHtoUSD.user.js
+// @downloadURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/blob/master/rozetka-com-ua_UAHtoUSD.user.js
 // @grant none
 // @version 0.0.2
 // ==/UserScript==
