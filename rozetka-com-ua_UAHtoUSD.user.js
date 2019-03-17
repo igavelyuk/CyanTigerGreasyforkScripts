@@ -8,10 +8,10 @@
 // @match https://*rozetka.com.ua/*
 // @match https://*rozetka.com.ua/*/*
 // @match https://*rozetka.com.ua/*/*/*
-// @installURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/blob/master/rozetka-com-ua.gavelweb.js
-// @updateURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/blob/master/rozetka-com-ua.gavelweb.js
+// @installURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/blob/master/rozetka-com-ua_UAHtoUSD.user.js
+// @updateURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/blob/master/rozetka-com-ua_UAHtoUSD.user.js
 // @grant none
-// @version 0.0.1
+// @version 0.0.2
 // ==/UserScript==
 ////var url = "https://data.fixer.io/api/latest?access_key=bfca71b58f55ca0957680bf34f6cb792&base=EUR&&symbols=UAH";
 var CURRENCY_RATE = 28.22; // price of dollars to convert
