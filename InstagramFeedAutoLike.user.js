@@ -6,9 +6,9 @@
 // https://www.instagram.com/*/*
 // https://www.instagram.com/*/*/*
 // https://www.instagram.com/*/*/*/*
-// @installURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/raw/master/InstagramTagAndLike.user.js
-// @updateURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/raw/master/InstagramTagAndLike.user.js
-// @downloadURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/raw/master/InstagramTagAndLike.user.js
+// @installURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/raw/master/InstagramFeedAutoLike.user.js
+// @updateURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/raw/master/InstagramFeedAutoLike.user.js
+// @downloadURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/raw/master/InstagramFeedAutoLike.user.js
 // @grant none
 // @version 0.0.9
 // ==/UserScript==
