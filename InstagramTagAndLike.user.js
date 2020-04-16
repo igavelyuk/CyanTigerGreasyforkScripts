@@ -10,7 +10,7 @@
 // @updateURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/raw/master/InstagramTagAndLike.user.js
 // @downloadURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/raw/master/InstagramTagAndLike.user.js
 // @grant none
-// @version 0.0.9
+// @version 0.1.0
 // ==/UserScript==
 
 var likes = 0; // initial likes set to 0, result will be visible in console log (ctrl+shift+i, click console)
