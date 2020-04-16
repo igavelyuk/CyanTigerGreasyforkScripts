@@ -43,8 +43,10 @@ var timerInt = 7000; //	7 sec
     // Selecting all not "Liked Hearts"
     // So we will click "Like" and "Next"
     // Each time then pass simulateCliks function    dCJp8 afkep coreSpriteHeartOpen _0mzm-"
-    greyHearts = document.getElementsByClassName("dCJp8");
-    simulateCliks(greyHearts[0], 'click', likes);
+    greyHearts = document.getElementsByClassName("fr66n");
+    // console.log(greyHearts);
+    var childrenSpanIsHeart = greyHearts[0].firstChild.firstChild
+    simulateCliks(childrenSpanIsHeart, 'click', likes);
 // Finding right buttons
     var xCom = document.getElementsByClassName("coreSpriteRightPaginationArrow");
     console.log(xCom[0]);
