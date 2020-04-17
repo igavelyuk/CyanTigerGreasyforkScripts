@@ -12,10 +12,10 @@
 // @updateURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/raw/master/UAHtoUSD.user.js
 // @downloadURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/raw/master/UAHtoUSD.user.js
 // @grant none
-// @version 0.0.3
+// @version 0.0.4
 // ==/UserScript==
 ////var url = "https://data.fixer.io/api/latest?access_key=bfca71b58f55ca0957680bf34f6cb792&base=EUR&&symbols=UAH";
-var CURRENCY_RATE = 26.83; // price of dollars to convert
+var CURRENCY_RATE = 27.22; // price of dollars to convert
 var a = document.getElementsByClassName("g-price-uah");
 
 // Just checking if page loaded an
