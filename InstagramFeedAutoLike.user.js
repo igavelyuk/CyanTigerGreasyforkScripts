@@ -10,7 +10,7 @@
 // @updateURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/raw/master/InstagramFeedAutoLike.user.js
 // @downloadURL https://github.com/igavelyuk/CyanTigerGreasyforkScripts/raw/master/InstagramFeedAutoLike.user.js
 // @grant none
-// @version 0.0.9
+// @version 0.1.0
 // ==/UserScript==
 
 
@@ -44,8 +44,11 @@ var timerInt = 7000; //	7 sec
     // Selecting all not "Liked Hearts"
     // So we will click "Like" and "Next"
     // Each time then pass simulateCliks function
-    greyHearts = document.getElementsByClassName("glyphsSpriteHeart__outline__24__grey_9");
-    simulateCliks(greyHearts[0].parentElement, 'click', likes);
+    //greyHearts = document.getElementsByClassName("glyphsSpriteHeart__outline__24__grey_9");
+    greyHearts = document.getElementsByClassName("fr66n");
+    console.log(greyHearts);
+    var childrenSpanIsHeart = greyHearts[likes].firstChild.firstChild;
+    simulateCliks(childrenSpanIsHeart, 'click', likes);
 		// Finding right buttons
     window.scrollTo(0,scrooltobottom);
     scrooltobottom=scrooltobottom+fixedScrool;
